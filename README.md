@@ -45,6 +45,9 @@
 <br>
 </div>
 
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Junior-1907&layout=compact&theme=dark&show_icons=true&locale=pt-br&card_width=750&custom_title=🚀&nbsp;Usando..." />
+</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=238636&height=120&section=footer"/>
 
