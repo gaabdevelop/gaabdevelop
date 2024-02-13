@@ -13,10 +13,6 @@
 </div>
 
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaabdevelop&layout=compact&theme=dark&show_icons=true&locale=pt-br&card_width=750&custom_title=🚀&nbsp;Usando..." />
-</a>
-
 
 <div align="center"> 
 <a href="https://www.instagram.com/gaab_dcarli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
