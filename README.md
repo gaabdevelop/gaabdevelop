@@ -8,7 +8,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gaabdevelop&show_icons=true&count_private=true&hide_border=true&title_color=238636&icon_color=238636&text_color=c9d1d9&bg_color=0d1117" alt="Gaab github stats" /> 
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaabdevelop&layout=compact&theme=dark&show_icons=true&locale=pt-br&card_width=750&custom_title=🚀&nbsp;Usando..." />
+</a>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaabdevelop&layout=compact&hide_border=true&title_color=238636&text_color=238636&bg_color=0d1117" />
 </div>
 
